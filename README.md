@@ -25,7 +25,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repository/todos-app.git
+   git clone https://github.com/rvega1204/todo-app.git
    cd todos-app
    ```
 2. Build and run the application:
